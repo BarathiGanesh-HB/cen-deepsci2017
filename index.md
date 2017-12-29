@@ -22,7 +22,7 @@ Considering the immediate need and the infinite potential of exploring the data 
 
 **Registration is closed**
 
-[Recent Talks given by CEN faculties](http://nlp.amrita.edu/facultytalk/talks.html)
+[Recent Talks given by CEN faculties](https://barathiganesh-hb.github.io/cen-talks/)
 
 [CEN Alumnus](http://nlp.amrita.edu/students/index.html)
 
