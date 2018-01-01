@@ -24,9 +24,9 @@ Considering the immediate need and the infinite potential of exploring the data 
 
 [Recent Talks given by CEN faculties](https://barathiganesh-hb.github.io/cen-talks/)
 
-[CEN Alumnus](http://nlp.amrita.edu/students/index.html)
+[CEN Alumnus](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
 
-[Academics at CEN](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
+[Academics at CEN](http://nlp.amrita.edu/students/index.html)
 
 [Check out the earlier workshops conducted by CEN](https://barathiganesh-hb.github.io/cen-workshops/)
 
