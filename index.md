@@ -40,7 +40,7 @@ Why we conduct workshop frequently?
 
 **Time: 09.00 am to 06.00 pm (please find below the detailed schedule)**
 
-09.00 -10.00 - "The inexplicable efficacy of deep learning" - [Dr. K. P. Soman](http://nlp.amrita.edu:8080/somankp/index.html)
+09.00 -10.00 - "The inexplicable efficacy of deep learning" - [Dr. K. P. Soman](http://nlp.amrita.edu/somankp/index.html)
 
 10:00 -10:30 - "How to analyse data from complex systems" - [Dr. Gopalakrishnan E. A.](https://www.amrita.edu/faculty/ea-gopalakrishnan)
 
